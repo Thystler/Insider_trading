@@ -1,0 +1,1 @@
+## using yfinacnce and www.sec.gov to predict insider trading.
